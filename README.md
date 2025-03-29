@@ -11,7 +11,7 @@ Prerequisites
 - Any modern web browser (Chrome/Firefox/Edge recommended)
 
 ### Running the website
-- Download the project folder
+- Download all the files + folders
 - Open folder in VSCode
 - Download "Live Server" extension
 - Right click on index.html -> "Open with Live Server"
